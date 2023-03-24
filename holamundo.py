@@ -1,0 +1,1 @@
+print("vamos por nuestro sistema de gestión carajo")

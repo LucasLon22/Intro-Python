@@ -1,0 +1,7 @@
+print y type son funciones
+print imprime lo que le decimos entre parentesis
+y type te verifica el dato que le das entre parentesis
+
+los diccionarios serian como el array
+
+ITERAR ES RECORRER EL ELEMENTO
